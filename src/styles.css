@@ -1,0 +1,84 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.nav {
+  position: fixed;
+  background-color: greenyellow;
+  /* padding-left: 20%;
+  padding-right: 20%; */
+  width: 100%;
+  justify-content: space-evenly;
+}
+.text-primary- {
+  position: fixed;
+}
+.text-primary- {
+  position: fixed;
+}
+.text-primary- {
+  position: fixed;
+}
+.pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center {
+  background: maroon;
+}
+.display-1 {
+  text-align: center;
+}
+.lead {
+  text-align: center;
+}
+.display-2 {
+  text-align: center;
+}
+.head {
+  text-align: center;
+}
+.read {
+  text-align: center;
+}
+.active {
+  text-align: center;
+  align-items: center;
+}
+
+.images {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 50px;
+  padding: 30px;
+}
+
+.photo {
+  max-width: 31.333%;
+  padding: 0 10px;
+  height: 150px;
+  padding-left: 30px;
+}
+
+.photo img {
+  width: 120%;
+  height: 100%;
+}
+.display-3 {
+  text-align: center;
+}
+.img {
+  padding-left: 120px;
+  width: 80%;
+}
+.dead {
+  text-align: center;
+}
+.texts {
+  text-align: center;
+}
+.promocode {
+  text-align: center;
+}
+.form {
+  text-align: center;
+}
+.address {
+  text-align: center;
+}
